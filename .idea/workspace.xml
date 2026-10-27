@@ -5,7 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd4211d1-8a4a-47f2-9a9e-de41e3a51aa7" name="Changes" comment="Initial Project upload">
-      <change beforePath="$PROJECT_DIR$/15_10_Day9/Assessment_Milestone1_16" beforeDir="false" afterPath="$PROJECT_DIR$/15_10_Day9/Assessment_Milestone1_16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_10_Day8/azure cosmosDB_2_code.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_10_Day8/azure_cosmosDB_1_.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_10_Day10/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_10_Day12/flask_crud_assignment/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_10_Day12/pytest_fastapi_assignment/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_10_Day12/pytest_fastapi_assignment/test_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_10_Day13/assignmentDay13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_10_Day13/fast_api_dependencies/react_train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23_10_Day14/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_10_Day16/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/Day1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/coworking_db_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/data_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/database_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/ev_sessions.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/exercise_D1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/festival_events.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/incident_notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/json_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/library_loans.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/numpy_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/semi_structured_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/structured_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/support_ticket.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/text_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/unstructured_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_10_to_13_Day1_Day7/wildlife_report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +63,7 @@
   </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/realviv1/AI-DATA-Training&quot;,
+    &quot;url&quot;: &quot;https://github.com/realviv1/AI-DATA-Training.git&quot;,
     &quot;accountId&quot;: &quot;ca7bc52d-67e6-4de0-a151-ff514ab7090d&quot;
   }
 }</component>
@@ -75,9 +104,10 @@
     &quot;Python.unstructured_assignment (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.unstructured_assignment.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Trainer/PycharmProjects/PythonProject/Assessment_15&quot;,
     &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
@@ -101,7 +131,7 @@
       <recent name="C:\Users\Trainer\PycharmProjects\PythonProject\Structured_Unstructured_Assignment" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.pydantic_assessment">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
