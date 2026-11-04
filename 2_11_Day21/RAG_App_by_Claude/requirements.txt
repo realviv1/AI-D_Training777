@@ -1,0 +1,6 @@
+tiktoken
+sentence-transformers
+chromadb
+python-dotenv
+anthropic
+openai
