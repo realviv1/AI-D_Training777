@@ -345,11 +345,11 @@ async def run_one(workflow, purchase: dict) -> None:
 async def main() -> None:
 
     api_key = os.environ[
-        "3yMjXgjfkcSaBjUd3OR8Iqi0CjP8UGof7g6RA9GSrRwJlJtFJQz7JQQJ99CKAC77bzfXJ3w3AAAAACOGOtvP"
+        "***************************************************************************"
     ]
 
     base_url = os.environ[
-        "https://sb-mazeazusrqn9t14-j6h4-8324-res.services.ai.azure.com/openai/v1/responses"
+        "***************************"
     ]
 
     model = os.environ[
