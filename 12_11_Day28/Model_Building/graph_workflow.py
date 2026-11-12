@@ -274,7 +274,7 @@ async def main() -> None:
     # Load Azure Foundry credentials
 
     api_key = read_setting(
-        "3yMjXgjfkcSaBjUd3OR8Iqi0CjP8UGof7g6RA9GSrRwJlJtFJQz7JQQJ99CKAC77bzfXJ3w3AAAAACOGOtvP"
+        "******************************************"
     )
 
     base_url = read_setting(
